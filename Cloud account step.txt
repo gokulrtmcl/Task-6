@@ -1,0 +1,39 @@
+STEPS TO CREATING AWS ACCOUNT
+
+1. Visit the AWS Signup Page
+o Choose “Create an AWS account” 
+o If the option to create a new AWS account isn’t visible, first choose “Sign in to a 
+different account,” and then proceed to create a new AWS account.
+
+2. Enter your Account Information
+o Provide accurate information, especially email address. Incorrect email addresses 
+can prevent account access.
+o Choose between a Personal or Professional account. Both account types have the 
+same features and functions.
+ 
+3. Read and Accept the AWS customer Agreement
+o Make sure to review the terms and conditions.
+o Accept the agreement to proceed.
+ 
+4. Create your Account
+o After entering personal information, choose “Create Account and Continue.”
+o Receive an email and confirming that our AWS account is ready to use. Sign in using 
+the email address and password we provided during signup.
+
+5. Payment information
+o Enter payment details on the Payment Information page.
+o If our contact address is in India, user agreement for the account is with AISPL (a 
+local AWS seller in India). We need to provide our CVV as part of the verification 
+process.
+o Verify the phone number by entering a phone number where we can be called. Follow 
+the instructions provided during the call.
+
+6. Select an AWS Support Plan
+o Choose a support plan based on our needs.
+o A confirmation page will indicate that when our account has being activated. 
+Activation usually takes a few minutes.
+o Once activated, We will receive a confirmation email, and we get full access to all 
+AWS services
+
+
+
